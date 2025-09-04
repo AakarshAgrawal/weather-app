@@ -26,7 +26,7 @@ It fetches real-time weather data from the [OpenWeatherMap API](https://openweat
 
 ## 📸 Screenshots
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](https://github.com/AakarshAgrawal/weather-app/blob/060606526202e95da7c8e502fa520909566c7538/Screenshot%202025-09-05%20023732.png)
 
 ---
 
